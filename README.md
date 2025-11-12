@@ -2,6 +2,8 @@
 
 This is an interactive web application designed to simulate and analyze the thermo-mechanical stress in various multi-layer lens structures. The primary goal is to identify the optimal design that minimizes the risk of delamination caused by the mismatch in the Coefficient of Thermal Expansion (CTE) among different materials when subjected to temperature changes.
 
+https://lens-stress-simulation-380588746768.us-west1.run.app
+
 
 
 ## Key Features
